@@ -12,6 +12,7 @@ In this project, I queried the AdventureWorksLT2012 database on my local compute
 
 ### Overview
 ![AdeventureWorks SQL Server Query Screenshot](images/Picture1.png)
+
 ![AdeventureWorks SQL Server Query Screenshot](images/Picture2.png)
 
 
