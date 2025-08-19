@@ -10,7 +10,8 @@ In this project, I queried the AdventureWorksLT2012 database on my local compute
 * Combine all queries in one file.
 * Submission of work.
 
-### Overview of the Singular Value Decomposition Architecture
+### Overview
 ![AdeventureWorks SQL Server Query Screenshot](images/Picture1.png)
+![AdeventureWorks SQL Server Query Screenshot](images/Picture2.png)
 
 
